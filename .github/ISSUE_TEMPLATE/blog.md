@@ -2,9 +2,7 @@
 name: 博客模板
 about: 创建博客的模板
 title: '[2020/03/24]轻舟智航基于大规模智能仿真系统及可自主学习决策规划框架的技术路径'
-labels:
-- zh
-- blog
+labels: zh,blog
 assignees: ''
 ---
 
