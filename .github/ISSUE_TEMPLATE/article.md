@@ -1,8 +1,10 @@
 ---
-name: 文章模板
-about: 创建文章的模板
+name: 新闻模板
+about: 创建新闻的模板
 title: '[2020/03/24]轻舟智航基于大规模智能仿真系统及可自主学习决策规划框架的技术路径'
-labels: zh
+labels:
+- zh
+- new
 assignees: ''
 ---
 
